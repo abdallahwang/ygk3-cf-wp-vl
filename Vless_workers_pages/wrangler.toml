@@ -1,0 +1,4 @@
+name = "yonggekkk_cloudflare_vless_workers_pages"
+main = "nat64套壳版混淆.js"
+compatibility_date = "2026-03-18"
+keep_vars = true
