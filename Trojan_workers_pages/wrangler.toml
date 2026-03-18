@@ -1,0 +1,4 @@
+name = "yonggekkk-Cloudflare_Trojan_workers_pages"
+main = "_worker混淆.js"
+compatibility_date = "2026-03-18"
+keep_vars = true
